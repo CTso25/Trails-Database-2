@@ -1,0 +1,1 @@
+Directory for animal spotting datasets - please use most updated version at all times and follow the PK ID sequential order. You can use the description dataset here for populating a few generic 'description texts' to populate the description attribute
